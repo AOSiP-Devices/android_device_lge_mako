@@ -2,14 +2,10 @@
  {
   "remote":      "github",
   "repository":  "nitrogen-os-devices/android_kernel_lge_mako",
-  "target_path": "kernel/lge/mako",
-  "branch":      "n"
- },
-  
+  "target_path": "kernel/lge/mako"
+ },  
  {
-  "remote":      "github",
-  "repository":  "nitrogen-os-devices/android_vendor_lge_mako",
-  "target_path": "vendor/lge/mako",
-  "branch":      "n"
+  "repository":  "platform_vendor_lge",
+  "target_path": "vendor/lge"
  }
 ] 
