@@ -1,0 +1,12 @@
+[
+ {
+  "remote":      "github",
+  "repository":  "spezi77/hellspawn-N4",
+  "target_path": "kernel/lge/mako",
+  "branch":      "n-7.x"
+ },  
+ {
+  "repository":  "platform_vendor_lge",
+  "target_path": "vendor/lge"
+ }
+] 
