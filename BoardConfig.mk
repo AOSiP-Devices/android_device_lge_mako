@@ -39,7 +39,7 @@ TARGET_KERNEL_SOURCE := kernel/lge/mako
 TARGET_KERNEL_TOOLCHAIN := UBERTC-5.4.1
 TARGET_GCC_VERSION_ARM := 5.4.1
 KERNEL_TOOLCHAIN_PREFIX := arm-eabi-
-KERNEL_TOOLCHAIN := /home/spezi77/android/uber-tc/arm-eabi-5.x/bin
+KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-eabi-5.x-uber/bin
 
 BOARD_USES_ALSA_AUDIO:= true
 BOARD_USES_LEGACY_ALSA_AUDIO:= false

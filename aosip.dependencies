@@ -1,0 +1,18 @@
+[
+ {
+  "remote":      "github",
+  "repository":  "nexus4ever/android_kernel_lge_mako",
+  "target_path": "kernel/lge/mako",
+  "branch":      "nougat-basic"
+ },  
+ {
+  "repository":  "platform_vendor_lge",
+  "target_path": "vendor/lge"
+ },
+ {
+  "remote":      "bb",
+  "repository":  "mdalexca/arm-eabi-5.x",
+  "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-5.x-uber",
+  "branch":      "master"
+ }
+] 
