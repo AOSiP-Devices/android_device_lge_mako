@@ -8,5 +8,9 @@
  {
   "repository":  "platform_vendor_lge",
   "target_path": "vendor/lge"
+ },
+ {
+   "repository": "arm-linux-androideabi-4.9",
+   "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-uber"
  }
-] 
+]
